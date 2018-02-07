@@ -6,9 +6,11 @@ This repository contains Python-Pandas MSSQL server 2012 examples using pyodbc a
 Below is information and references for MSSQL server 2012 windows 10 installation and connection using Python.
 
 # Download MS SQL server 2012 from below link :
+
 https://www.microsoft.com/en-in/download/details.aspx?id=29062
 
 # Video link with steps to install MS SQL server
+
 https://www.youtube.com/watch?v=sBuqXIfJPpE
 https://sajjadwebpage.blogspot.in/2016/02/02-how-to-download-and-install.html
 
