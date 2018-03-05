@@ -19,10 +19,6 @@ DB = {
 }
 
 
-# Parameters
-server = 'LAPTOP-CUJRHGN3'
-db = 'TestDB'
-
 # Create the connection
 conn = pyodbc.connect('DRIVER={SQL Server};SERVER=' + DB['servername'] + ';DATABASE=' + DB['database'] + ';Trusted_Connection=yes')
 
